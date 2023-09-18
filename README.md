@@ -13,6 +13,9 @@ Also remember, you can only use one remote connection to your iRacingLiveTiming 
 Streamer.Bot (https://streamerbot.github.io/client/)
 iRacingLiveTiming (https://www.sdk-gaming.co.uk/)
 
+## Download: 
+https://github.com/lithiumfox/streamerbot-iRLT/releases/tag/release
+
 # Setup:
 
 ## iRacingLiveTiming Preconfiguration (REQUIRED):
