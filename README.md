@@ -1,11 +1,16 @@
 # streamerbot-iRLT
-iRacing Live Timing actions for Streamer.Bot
+iRacing Live Timing actions for Streamer.Bot so you don't have to code.
 
 ![image](https://github.com/lithiumfox/streamerbot-iRLT/assets/4545555/8d1ebae5-ab91-4135-938d-7dbc18d5d914)
 
 
+
 ## What this is:
-An obnoxious list of actions that can be used to remotely control iRacing Live Timing via multiple systems, such as StreamDeck buttons using the Streamer.Bot plugin, or via Twitch Redeems.
+An obnoxious list of actions that can be used to remotely control iRacing Live Timing via multiple systems, such as StreamDeck buttons using the Streamer.Bot plugin, or via Twitch Redeems, and to make it easier to build actions without having to code anything.
+All you need is a state, an object, and the execute action:
+
+![image](https://github.com/lithiumfox/streamerbot-iRLT/assets/4545555/65cb34ef-e073-4266-8a72-11695c8f5ccc)
+
 
 Quick Note: This is not the most optimized method in my opinion, and there may be some actions I have missed. Please let me know in the issues section. 
 I also would like to make this a proper plugin in the future! If you have any information or would like to help, please let me know!
