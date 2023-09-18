@@ -77,7 +77,7 @@ Update "YourUserNameHere" to **User** you created Earlier
 
 Repeat these steps for "room" with your **Room Name** value.
 
-### 4. Add Room Trigger if it's not there
+### 4. Add Trigger for (Settings) Room [if it's not there]
 
 This is something I couldn't test, but you may need to add a trigger to this. This basically sets the values of the global variables once after your websocket connects. 
 
