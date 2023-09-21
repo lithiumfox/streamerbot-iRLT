@@ -1,5 +1,5 @@
 # streamerbot-iRLT
-iRacing Live Timing actions for Streamer.Bot [It's still confusing so hold on for a plugin if you really want this]
+iRacing Live Timing actions for Streamer.Bot!
 
 ![image](https://github.com/lithiumfox/streamerbot-iRLT/assets/4545555/8d1ebae5-ab91-4135-938d-7dbc18d5d914)
 
